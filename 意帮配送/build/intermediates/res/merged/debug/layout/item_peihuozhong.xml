@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:id="@+id/rl_final_ph"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/white"
+                android:paddingBottom="20dp"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:paddingTop="15dp">
+
+    <TextView
+        android:id="@+id/tv_phz_ok"
+        android:layout_width="75dp"
+        android:layout_height="75dp"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:background="@drawable/shapte_btn_ok"
+        android:gravity="center"
+        android:text="配货"
+        android:textColor="@color/white"
+        android:textSize="18sp"/>
+
+    <TextView
+        android:id="@+id/tv_phz_username"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/main_text_color"
+        android:textSize="16sp"/>
+
+    <TextView
+        android:id="@+id/tv_phz_userphone"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="12dp"
+        android:layout_toLeftOf="@id/tv_phz_ok"
+        android:textColor="@color/main_text_color"
+        android:textSize="16sp"/>
+
+    <TextView
+        android:id="@+id/tv_phz_goodsname"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tv_phz_username"
+        android:layout_marginTop="20dp"
+        android:textColor="@color/help_text_color"
+        android:textSize="14sp"/>
+
+    <TextView
+        android:id="@+id/tv_phz_goodsnum"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignRight="@id/tv_phz_userphone"
+        android:layout_below="@id/tv_phz_username"
+        android:layout_marginLeft="4dp"
+        android:layout_marginTop="20dp"
+        android:textColor="@color/main_text_color"
+        android:textSize="16sp"/>
+
+</RelativeLayout>

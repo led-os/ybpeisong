@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:background="@color/white"
+              android:orientation="vertical"
+              android:paddingBottom="16dp"
+              android:paddingLeft="12dp"
+              android:paddingRight="12dp"
+              android:paddingTop="20dp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/tv_psz_username"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/main_text_color"
+            android:textSize="16sp"/>
+
+        <TextView
+            android:id="@+id/tv_psz_phone"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:textColor="@color/main_text_color"
+            android:textSize="16sp"/>
+
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/tv_psz_address"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="12dp"
+        android:layout_marginTop="12dp"
+        android:gravity="center_vertical"
+        android:textColor="@color/help_text_color"
+        android:textSize="14sp"/>
+
+
+    <LinearLayout
+        android:id="@+id/ll_paymethod"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="4dp"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/tv_psz_hungry"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="12dp"
+            android:layout_marginRight="10dp"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:padding="12dp"
+            android:textColor="@color/other_text_color"
+            android:textSize="18sp"/>
+
+        <TextView
+            android:id="@+id/tv_psz_paymethod"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="12dp"
+            android:layout_marginLeft="10dp"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:padding="12dp"
+            android:textColor="@color/other_text_color"
+            android:textSize="14sp"/>
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/grey_line_color"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:layout_marginTop="10dp"
+        android:text="已购商品"
+        android:textColor="@color/main_text_color"
+        android:textSize="18sp"/>
+
+    <ListView
+        android:id="@+id/lv_pszgoods_List"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#FFF"
+        android:cacheColorHint="#00000000"
+        android:divider="@color/grey_line_color"
+        android:dividerHeight="1dp"
+        android:listSelector="#00000000"
+        android:scrollbars="none"/>
+
+</LinearLayout>

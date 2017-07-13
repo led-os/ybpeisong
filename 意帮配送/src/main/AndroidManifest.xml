@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          package="com.ybguajia.ybtest">
+
+    <uses-permission android:name="android.permission.INTERNET"/>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".LoginActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".MenuActivity"
+            android:theme="@android:style/Theme.Black.NoTitleBar">
+        </activity>
+        <activity
+            android:name=".WeipeihuoActivity"
+            android:theme="@android:style/Theme.Black.NoTitleBar">
+        </activity>
+        <activity
+            android:name=".LingquzhongActivity"
+            android:theme="@android:style/Theme.Black.NoTitleBar">
+        </activity>
+        <activity
+            android:name=".PeihuozhongActivity"
+            android:theme="@android:style/Theme.Black.NoTitleBar">
+        </activity>
+        <activity
+            android:name=".PeisongzhongActivity"
+            android:theme="@android:style/Theme.Black.NoTitleBar">
+        </activity>
+        <activity
+            android:name=".OrderDetailActivity"
+            android:theme="@android:style/Theme.Black.NoTitleBar"
+            android:windowSoftInputMode="stateHidden|adjustPan">
+        </activity>
+        <activity
+            android:name=".PeisongwanchengActivity"
+            android:theme="@android:style/Theme.Black.NoTitleBar">
+        </activity>
+        <activity
+            android:name=".ErrorActivity"
+            android:theme="@android:style/Theme.Black.NoTitleBar">
+        </activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "E:\\work\\ybpeisong\\MyApplication\\意帮配送\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\icon_peisongzhong.png",
+        "source": "E:\\work\\ybpeisong\\MyApplication\\意帮配送\\src\\main\\res\\mipmap-xxhdpi\\icon_peisongzhong.png"
+    },
+    {
+        "merged": "E:\\work\\ybpeisong\\MyApplication\\意帮配送\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "E:\\work\\ybpeisong\\MyApplication\\意帮配送\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\work\\ybpeisong\\MyApplication\\意帮配送\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\icon_peihuozhong.png",
+        "source": "E:\\work\\ybpeisong\\MyApplication\\意帮配送\\src\\main\\res\\mipmap-xxhdpi\\icon_peihuozhong.png"
+    },
+    {
+        "merged": "E:\\work\\ybpeisong\\MyApplication\\意帮配送\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\icon_pwd.png",
+        "source": "E:\\work\\ybpeisong\\MyApplication\\意帮配送\\src\\main\\res\\mipmap-xxhdpi\\icon_pwd.png"
+    },
+    {
+        "merged": "E:\\work\\ybpeisong\\MyApplication\\意帮配送\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\icon_weipeihuo.png",
+        "source": "E:\\work\\ybpeisong\\MyApplication\\意帮配送\\src\\main\\res\\mipmap-xxhdpi\\icon_weipeihuo.png"
+    },
+    {
+        "merged": "E:\\work\\ybpeisong\\MyApplication\\意帮配送\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\logo.png",
+        "source": "E:\\work\\ybpeisong\\MyApplication\\意帮配送\\src\\main\\res\\mipmap-xxhdpi\\logo.png"
+    },
+    {
+        "merged": "E:\\work\\ybpeisong\\MyApplication\\意帮配送\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_address.png",
+        "source": "E:\\work\\ybpeisong\\MyApplication\\意帮配送\\src\\main\\res\\mipmap-xxhdpi\\ic_address.png"
+    },
+    {
+        "merged": "E:\\work\\ybpeisong\\MyApplication\\意帮配送\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\login_logo.png",
+        "source": "E:\\work\\ybpeisong\\MyApplication\\意帮配送\\src\\main\\res\\mipmap-xxhdpi\\login_logo.png"
+    },
+    {
+        "merged": "E:\\work\\ybpeisong\\MyApplication\\意帮配送\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\icon_peihuowancheng.png",
+        "source": "E:\\work\\ybpeisong\\MyApplication\\意帮配送\\src\\main\\res\\mipmap-xxhdpi\\icon_peihuowancheng.png"
+    },
+    {
+        "merged": "E:\\work\\ybpeisong\\MyApplication\\意帮配送\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\icon_lingquzhong.png",
+        "source": "E:\\work\\ybpeisong\\MyApplication\\意帮配送\\src\\main\\res\\mipmap-xxhdpi\\icon_lingquzhong.png"
+    },
+    {
+        "merged": "E:\\work\\ybpeisong\\MyApplication\\意帮配送\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\http_error.png",
+        "source": "E:\\work\\ybpeisong\\MyApplication\\意帮配送\\src\\main\\res\\mipmap-xxhdpi\\http_error.png"
+    },
+    {
+        "merged": "E:\\work\\ybpeisong\\MyApplication\\意帮配送\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\icon_user.png",
+        "source": "E:\\work\\ybpeisong\\MyApplication\\意帮配送\\src\\main\\res\\mipmap-xxhdpi\\icon_user.png"
+    },
+    {
+        "merged": "E:\\work\\ybpeisong\\MyApplication\\意帮配送\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\icon_wentidan.png",
+        "source": "E:\\work\\ybpeisong\\MyApplication\\意帮配送\\src\\main\\res\\mipmap-xxhdpi\\icon_wentidan.png"
+    },
+    {
+        "merged": "E:\\work\\ybpeisong\\MyApplication\\意帮配送\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\http_loading.png",
+        "source": "E:\\work\\ybpeisong\\MyApplication\\意帮配送\\src\\main\\res\\mipmap-xxhdpi\\http_loading.png"
+    }
+]

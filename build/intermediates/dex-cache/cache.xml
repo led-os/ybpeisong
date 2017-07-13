@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\work\ybpeisong\MyApplication\意帮配送\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ad711369a8faddf16f3e3da91a013bf744a01d6e">
+        <dex dex="E:\work\ybpeisong\MyApplication\意帮配送\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_69851589ec8525c0a94bfceda9be18f139a6b9cd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\work\ybpeisong\MyApplication\意帮配送\libs\gson-2.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="E:\work\ybpeisong\MyApplication\意帮配送\build\intermediates\transforms\dex\debug\folders\1000\2\gson-2.3.1_6cf1eb41c66fc5f8559991f36162d42a66afdd54\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\work\ybpeisong\MyApplication\意帮配送\libs\universal-image-loader-1.8.6-with-sources.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9ad605dd55be2e74e614b2ab2ff466439c4461b7">
+        <dex dex="E:\work\ybpeisong\MyApplication\意帮配送\build\intermediates\transforms\dex\debug\folders\1000\2\universal-image-loader-1.8.6-with-sources_b67a1d4bedc6437a60cb48e4480cfbf8740ca688\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\work\ybpeisong\MyApplication\意帮配送\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="E:\work\ybpeisong\MyApplication\意帮配送\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_294acb7e4e01c2b42f65627cc9ff694b8443ed96\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\work\ybpeisong\MyApplication\意帮配送\libs\okhttp-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="E:\work\ybpeisong\MyApplication\意帮配送\build\intermediates\transforms\dex\debug\folders\1000\2\okhttp-3.4.1_459c626c710ec11ad8b68c181d3121b70081785c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\work\ybpeisong\MyApplication\意帮配送\libs\okio-1.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1dc44f4cec20a64cebb68b90b4218f82ac7948b1">
+        <dex dex="E:\work\ybpeisong\MyApplication\意帮配送\build\intermediates\transforms\dex\debug\folders\1000\2\okio-1.7.0_17ead17ba4f935fcf84a2d661d9438ca02294ba6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\work\ybpeisong\MyApplication\意帮配送\libs\okhttputils-2_6_2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0b58ea597d7d7a6ef0ec42ae3994985f7e86553f">
+        <dex dex="E:\work\ybpeisong\MyApplication\意帮配送\build\intermediates\transforms\dex\debug\folders\1000\2\okhttputils-2_6_2_3255dd2c752f3e36ba0ebe2d91bce1f7339e1ca3\classes.dex" />
+    </item>
+
+</items>
